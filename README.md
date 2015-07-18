@@ -15,3 +15,4 @@ Connect it to github:
 2.  type (git pull origin master)
 3.  type (git push -u origin master)
 
+Done!

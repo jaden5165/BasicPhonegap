@@ -1,12 +1,12 @@
 # basicphonegap
 simple mobile app
 
-How to create new repo from an existing project:
-1.  Go into the directory containing the project.
-2.  Type (git init). *Don't type in the ()
-3.  Type (git add <filename>) or (git add .)to add all of the relevant files.
-4.  You’ll probably want to create a .gitignore file right away, to indicate all of the files you don’t want to track. Use git 5.  add .gitignore, too.
-6.  Type (git commit -m "meangingdul message").
+-How to create new repo from an existing project:
+-Go into the directory containing the project.
+-Type (git init). *Don't type in the ()
+-Type (git add <filename>) or (git add .)to add all of the relevant files.
+-You’ll probably want to create a .gitignore file right away, to indicate all of the files you don’t want to track. Use git add .gitignore, too.
+-Type (git commit -m "meangingdul message").
 
 Connect it to github:
 1.  type (git remote add origin git@github.com:username/new_repo)

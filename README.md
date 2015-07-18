@@ -14,3 +14,4 @@ Connect it to github:
     (git remote add origin https://github.com/username/new_repo)
 2.  type (git pull origin master)
 3.  type (git push -u origin master)
+
